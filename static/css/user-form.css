@@ -1,0 +1,32 @@
+body{
+    background: url(../img/balones-oxigeno.jpeg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.main-section{
+    margin:0 auto;
+    margin: top 100%;
+    width: auto;
+    height: auto;
+}
+.card{
+	opacity: .95;
+}
+.card-body{
+    background-color: #d1d3d6;
+    box-shadow: 3px 3px 3px #848484;
+    width: 100%;
+    height: 100%;
+}
+
+label{
+	font-weight: bold;
+}
+
+.nav-tabs .nav-item a:not(.active){
+	background-color: #d1d3d6;
+}
+
+.nav-tabs{
+	border-bottom:0px;
+}
